@@ -1,0 +1,9 @@
+2) HTTP/1.1
+          The standardized protocol.Introduced presistent connection,pipelining,cache-control and many other features.
+   HTTP/2
+           A protocol for greater performance.
+           2015 based on Google's SPDY allows multiplexing and server push.
+3) Objects and its internal representation in Javascript:
+         Objects are complex and each object may contain a combination of primitive data types as well as reference datatype.
+         In the form of "key:value" pairs.
+         where key is the property name value can be anything.
